@@ -13,6 +13,6 @@ quartz-view是使用vue编写的页面
 
 ## 项目截图
 首页  
-![pic1](./img/首页.png)
+![image](./img/首页.png)
 编辑  
-![pic1](./img/编辑.png)
+![image](./img/编辑.png)
