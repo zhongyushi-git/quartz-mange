@@ -12,7 +12,5 @@ quartz-view是使用vue编写的页面
 3.前台先执行npm i，然后执行npm run serve即可  
 
 ## 项目截图
-首页  
-![image](./img/首页.png)
-编辑  
-![image](./img/编辑.png)
+http://www.baidu.com  
+
